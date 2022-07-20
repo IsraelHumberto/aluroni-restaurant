@@ -1,3 +1,7 @@
+# PROJETO ALURONI 
+
+Este projeto foi desenvolvido por mim seguindo o curso 'React - lidando com arquivos estáticos' com o objetivo de aprofundar meus estudos nessa tecnologia.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
