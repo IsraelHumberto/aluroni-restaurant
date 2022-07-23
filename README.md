@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido por mim seguindo o curso 'React - lidando com arquivos estáticos' com o objetivo de aprofundar meus estudos nessa tecnologia.
 
+![image](https://user-images.githubusercontent.com/76545275/180591185-9aa86568-95d8-4843-a26c-c184a1b2e2ba.png)
+
 ## Nesse projeto foi usado 
 
 <ul>
@@ -9,6 +11,8 @@ Este projeto foi desenvolvido por mim seguindo o curso 'React - lidando com arqu
   <li>css modules</li>
   <li>Metodologia BEM</li>
   <li>useState</li>
+  <li>useEffect</li>
+  <li>Package classNames</li>
 </ul>
 
 # Getting Started with Create React App
