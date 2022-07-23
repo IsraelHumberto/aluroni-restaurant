@@ -2,6 +2,15 @@
 
 Este projeto foi desenvolvido por mim seguindo o curso 'React - lidando com arquivos estáticos' com o objetivo de aprofundar meus estudos nessa tecnologia.
 
+## Nesse projeto foi usado 
+
+<ul>
+  <li>SASS</li>
+  <li>css modules</li>
+  <li>Metodologia BEM</li>
+  <li>useState</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
